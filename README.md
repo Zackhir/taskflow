@@ -1,12 +1,31 @@
-# React + Vite
+TaskFlow
+Organize your life effortlessly. Plan, track, and complete your tasks with ease.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Overview
+TaskFlow is a modern, responsive web app built with React. It features a sleek UI, smooth animations, and a simple workflow to help you stay on top of your tasks.
 
-Currently, two official plugins are available:
+✨ Features
+Hero Section – Clear introduction with a call-to-action button.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features Section – Highlights core functionalities with icons.
 
-## Expanding the ESLint configuration
+Reviews Section – Real user testimonials fetched from an API.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Pricing Section – Flexible plans with feature lists.
+
+Footer – Contact details and social media links.
+
+Smooth Animations – Sections animate in as you scroll (powered by Framer Motion).
+
+Fully Responsive – Works seamlessly on mobile, tablet, and desktop.
+
+🎨 Tech Stack
+React – Component-based UI development
+
+JavaScript (ES6+) – Core scripting language
+
+CSS3 – Custom modern design with gradient backgrounds
+
+Framer Motion – Scroll-based animations
+
+Fetch API – Retrieve dynamic user data for reviews
