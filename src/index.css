@@ -11,7 +11,7 @@ html {
 
 body {
   font-family: 'Inter', system-ui, sans-serif;
-  background-image:linear-gradient(to right,#be14ed ,#2384eb);
+  background-color:#4da2fd;
   color: #1f2937;
   line-height: 1.6;
 }
@@ -148,6 +148,7 @@ button:hover {
 }
 .Pricing-grid ul li{
   list-style-type: none;
+  text-align: center;
 }
 .Pricing-grid button{
   margin-top: 3vh;
